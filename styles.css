@@ -1,0 +1,32 @@
+head,
+body {
+    font-family: monospace;
+    text-align: center;
+    background-color: rgb(47, 47, 47);
+    color: greenyellow;
+}
+
+#hackButton {
+    background-color: red;
+    border: none;
+    padding: 5px;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: x-large;
+}
+
+#credits {
+    
+}
+
+a:link,
+a:visited {
+    color: rgb(119, 153, 244);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
+    color: rgb(78, 125, 255);
+}
