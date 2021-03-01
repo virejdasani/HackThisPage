@@ -1,1 +1,2 @@
-document.body.style.backgroundColor='orange'
+// This makes webpage editable
+document.body.contentEditable = 'true'
