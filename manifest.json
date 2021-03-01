@@ -11,7 +11,7 @@
     }],
 
     "browser_action": {
-        "default_icon": "assets/icon.png",
+        "default_icon": "assets/img/icon.png",
         "default_popup": "popup.html"
     },
     "permissions": [
