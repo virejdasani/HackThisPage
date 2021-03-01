@@ -19,7 +19,6 @@ body {
     color: yellowgreen;
     transition-duration: 0.4s;
     border: solid 1px red;
-
 }
 
 #hackButton:hover {
