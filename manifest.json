@@ -5,9 +5,9 @@
     "description": "This extension makes any webpage editable!",
     "version": "1.0",
 
-    "background": {
-        "scripts": ["background.js"]
-    },
+    // "background": {
+    //     "scripts": ["background.js"]
+    // },
 
     "content_scripts": [{
         "matches": ["<all_urls>"],
@@ -15,8 +15,8 @@
     }],
 
     "browser_action": {
-        "default_icon": "assets/icon.png"
-        // "default_popup": "popup.html"
+        "default_icon": "assets/icon.png",
+        "default_popup": "popup.html"
     },
     "permissions": [
         "activeTab"
