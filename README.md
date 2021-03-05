@@ -20,7 +20,7 @@
 #### This is how easy it is to use the extension:
 > https://www.youtube.com/watch?v=678LAl7E76U
 
-## Hack This Page is available to download for [Google Chrome](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hack-this-website/)
+## Download Hack This Page for [Google Chrome](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hack-this-website/)
 
 
 Please leave a review on the extension and feel free to ask me any questions you may have.
