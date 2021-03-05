@@ -1,12 +1,12 @@
-#### I made a browser extension called "Hack This Page" with which you can edit or 'hack' any website with ease. 
-(Download links at the end of the post)
+## I made a browser extension called "Hack This Page" with which you can edit or 'hack' any website with ease. 
+> (Download links at the end of the post)
 
->#### Let me show you what I'm talking about:
+### Let me show you what I'm talking about:
 
 ![Virej-140M subscribers-youtube](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajzcku4pvg74sw93m6d2.png) 
 
-- Yes, I did give myself more subscribers than PewDiePie and a video with 4 Billion views
-- And no, I didn't use the developer tools (inspect element, etc.)
+##- Yes, I did give myself more subscribers than PewDiePie and a video with 4 Billion views
+##- And no, I didn't use the developer tools (inspect element, etc.)
 
 
 >### So how did I do it?
