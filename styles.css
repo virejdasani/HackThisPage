@@ -21,6 +21,7 @@ body {
     border: solid 1px red;
 }
 
+/* This happens when cursor hovers over hackButton */
 #hackButton:hover {
     background-color: red;
     color: black;

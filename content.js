@@ -6,10 +6,11 @@ chrome.runtime.onMessage.addListener(msgObj => {
 
         // Make the webpage editable (HACKED)
         document.body.contentEditable = 'true'
-        console.log("WEBSITE HACKED 🚀")
 
         // This turns off spellcheck
         document.body.setAttribute('spellcheck', false)
+
+        console.log("WEBSITE HACKED 🚀")
         
 
         // console.log("This tool has been created by @VirejDasani")

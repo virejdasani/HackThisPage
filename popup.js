@@ -8,5 +8,4 @@ document.getElementById('hackButton').addEventListener('click', function () {
             chrome.tabs.sendMessage(tab.id, msgObj);
         })
     })
-
 })
