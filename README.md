@@ -22,5 +22,7 @@
 
 ## Download Hack This Page for [Google Chrome](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hack-this-website/)
 
+Read more about it [here](https://virejdasani.medium.com/you-can-hack-any-webpage-with-this-new-browser-extension-40058519d96)
+
 
 Please leave a review on the extension and feel free to ask me any questions you may have.
