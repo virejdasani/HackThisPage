@@ -1,4 +1,5 @@
-## I made a browser extension called "Hack This Page" with which you can edit or 'hack' any website with ease. 
+# Hack This Page
+
 > (Download links at the end of the post)
 
 ### Let me show you what I'm talking about:
