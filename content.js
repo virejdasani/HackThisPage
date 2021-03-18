@@ -16,3 +16,4 @@ chrome.runtime.onMessage.addListener(msgObj => {
         // console.log("This tool has been created by @VirejDasani")
     }
 })
+
