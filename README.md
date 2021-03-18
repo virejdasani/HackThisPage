@@ -1,7 +1,8 @@
-## I made a browser extension called "Hack This Page" with which you can edit or 'hack' any website with ease. 
+# Hack This Page
+
 > (Download links at the end of the post)
 
-### Let me show you what I'm talking about:
+### What can you do with Hack This Page?
 
 ![Virej-140M subscribers-youtube](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajzcku4pvg74sw93m6d2.png) 
 
@@ -21,6 +22,8 @@
 > https://www.youtube.com/watch?v=678LAl7E76U
 
 ## Download Hack This Page for [Google Chrome](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hack-this-website/)
+
+Read more about it [here](https://virejdasani.medium.com/you-can-hack-any-webpage-with-this-new-browser-extension-40058519d96)
 
 
 Please leave a review on the extension and feel free to ask me any questions you may have.
