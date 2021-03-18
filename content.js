@@ -11,7 +11,7 @@ chrome.runtime.onMessage.addListener(msgObj => {
         document.body.setAttribute('spellcheck', false)
 
         console.log("WEBSITE HACKED 🚀")
-        
+        alert("WEBSITE HAS BEEN HACKED 🚀")
 
         // console.log("This tool has been created by @VirejDasani")
     }
