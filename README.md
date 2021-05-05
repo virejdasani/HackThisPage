@@ -1,6 +1,6 @@
 # Hack This Page
 
-> (Download links at the end of the post)
+> (Download links at the bottom)
 
 ### What can you do with Hack This Page?
 
