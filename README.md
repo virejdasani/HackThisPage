@@ -1,6 +1,6 @@
-# Hack This Page
+# [Hack This Page](https://virejdasani.github.io/HackThisPage/)
 
-> (Download links at the bottom)
+## Download Hack This Page for [Google Chrome](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hack-this-website/)
 
 ### What can you do with Hack This Page?
 
@@ -21,7 +21,6 @@
 #### This is how easy it is to use the extension:
 > https://www.youtube.com/watch?v=678LAl7E76U
 
-## Download Hack This Page for [Google Chrome](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hack-this-website/)
 
 Read more about it [here](https://virejdasani.medium.com/you-can-hack-any-webpage-with-this-new-browser-extension-40058519d96)
 
