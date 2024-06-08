@@ -1,6 +1,6 @@
 # [Hack This Page](https://virejdasani.github.io/HackThisPage/)
 
-## Download Hack This Page for [Google Chrome](https://chrome.google.com/webstore/detail/hack-this-page/nbfegodimhenhkghjeppighcbpdinhdp) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hack-this-website/)
+## Download Hack This Page for [Google Chrome](https://chromewebstore.google.com/detail/hack-this-page/nfnancecciahmmbdmjnlojmnmdlofkjc) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hack-this-website/)
 
 ### What can you do with Hack This Page?
 
